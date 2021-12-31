@@ -10,4 +10,7 @@ os. Package os provides a platform-independent interface to operating system fun
 
 strings. Package strings implements simple functions to manipulate UTF-8 encoded strings.
 
-go run script.go
+net/http. Package http provides HTTP client and server implementations.
+
+
+`go run script.go`
