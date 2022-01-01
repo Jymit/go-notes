@@ -12,5 +12,6 @@ strings. Package strings implements simple functions to manipulate UTF-8 encoded
 
 net/http. Package http provides HTTP client and server implementations.
 
+https://github.com/dariubs/GoBooks
 
 `go run script.go`
